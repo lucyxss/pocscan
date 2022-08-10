@@ -14,7 +14,7 @@ django-celery==3.1.17
 django-kombu==0.9.4
 django-suit==0.2.16
 eventlet==0.18.1
-flower==0.8.4
+flower==1.2.0
 futures==3.0.3
 gevent==1.1rc3
 greenlet==0.4.9
